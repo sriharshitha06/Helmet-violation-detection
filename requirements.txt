@@ -1,0 +1,9 @@
+flask
+opencv-python-headless
+ultralytics
+easyocr
+numpy
+sqlalchemy
+requests
+imutils
+python-dotenv
